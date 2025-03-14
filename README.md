@@ -13,7 +13,7 @@
 
 ## 2️⃣ Definição do Projeto  
 
-### 🖥️ Software a ser desenvolvido  
+### Software:
 Um sistema para gerenciamento de leitura, onde os usuários podem:  
 📌 Cadastrar livros e organizá-los em categorias.  
 📌 Acompanhar o progresso de leitura (páginas lidas, status).  
@@ -40,7 +40,7 @@ Um sistema para gerenciamento de leitura, onde os usuários podem:
 🔹 **Revisão** – Tarefas que precisam ser testadas e revisadas.  
 🔹 **Concluído** – Tarefas finalizadas e prontas para uso.  
 
-💡 **Tarefas estabelecidas:**  
+**Tarefas estabelecidas:**  
 ✅ Criar banco de dados para armazenar livros.  
 ✅ Desenvolver interface para cadastrar novos livros.  
 ✅ Implementar funcionalidade de progresso de leitura.  
@@ -58,7 +58,7 @@ Apresentaremos o projeto desenvolvido
 
 ## 6️⃣ Ferramentas Utilizadas  
 
-📌 ainda será preenchido.
+📌 Ainda será preenchido.
 ---
 
 ### 🔹 Por que Kanban foi escolhido para este projeto?  
