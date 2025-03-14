@@ -1,60 +1,72 @@
-# Documento de Definição do Projeto
+# 📚 Projeto: Sistema de Cadastro de Livros usando Kanban  
 
-## 1. Escolha da Metodologia
+## 1️⃣ Escolha da Metodologia  
 
-**Metodologia Escolhida:** _[Nome da Metodologia]_  
-
-### Justificativa da Escolha
-Explique como a metodologia escolhida se encaixa no projeto que sua equipe irá desenvolver, destacando como ela pode ajudar a atingir os objetivos do projeto de forma eficaz.
-
----
-
-## 2. Definição do Projeto
-
-### Software a ser desenvolvido
-_Defina o tipo de software que será desenvolvido (por exemplo, aplicativo de delivery, plataforma de ensino online, sistema de gestão empresarial, etc.)._
-
-### Propósito do Software
-_Descreva brevemente o propósito do software e seus principais objetivos, destacando as funcionalidades principais e os resultados esperados com o seu desenvolvimento._
+### 🏷️ Metodologia Escolhida: Kanban  
+**Kanban** foi escolhido porque:  
+✅ Permite um fluxo contínuo de trabalho, sem necessidade de sprints fechadas.  
+✅ Facilita a **visualização do progresso** e a gestão de tarefas em tempo real.  
+✅ Permite ajustes mais flexíveis conforme surgem novas demandas.  
+✅ Escolhemos o Kanban devido à liberdade de participação dos integrantes; todos podem se ajudar com sugestões e testes.
 
 ---
 
-## 3. Montagem da Equipe
+## 2️⃣ Definição do Projeto  
 
-Com base na metodologia escolhida, defina os papéis essenciais na equipe de desenvolvimento.
+### 🖥️ Software a ser desenvolvido  
+Um sistema para gerenciamento de leitura, onde os usuários podem:  
+📌 Cadastrar livros e organizá-los em categorias.  
+📌 Acompanhar o progresso de leitura (páginas lidas, status).  
+📌 Definir metas e desafios de leitura.  
+📌 Consultar o histórico de livros lidos e receber recomendações.  
 
-### Papéis na Equipe
+---
+
+## 3️⃣ Montagem da Equipe  
+
 | Integrante  | Papel |
 |-------------|-------|
-| Integrante 01 | _[Papel]_ |
-| Integrante 02 | _[Papel]_ |
-| Integrante 03 | _[Papel]_ |
-| Integrante 04 | _[Papel]_ |
-
-**Descrição das funções:**  
-Explique a função de cada papel dentro do time e como ele contribuirá para o sucesso do projeto.
+| Lucas Menegon | **Gerente de Projeto** – Organiza tarefas e prioriza demandas. |
+| Lucas Menegon | **Desenvolvedor** – Implementa as funcionalidades do sistema. |
+| Eloá Florêncio | **Designer** – Cria a interface visual e experiência do usuário. |
+| Eloá Florêncio  | **QA (Testador)** – Realiza testes para garantir a qualidade do sistema. |
 
 ---
 
-## 4. Elaboração do Planejamento Inicial
+## 4️⃣ Elaboração do Planejamento Inicial  
 
-### Cronograma de Desenvolvimento
-_Indique como as entregas e revisões do software serão feitas ao longo do desenvolvimento, organizando as entregas em sprints ou ciclos de trabalho._
+### Fluxo de Trabalho Kanban
+
+🔹 **Backlog** – Lista de tarefas a serem feitas.  
+🔹 **Em Andamento** – Tarefas que estão sendo trabalhadas.  
+🔹 **Revisão** – Tarefas que precisam ser testadas e revisadas.  
+🔹 **Concluído** – Tarefas finalizadas e prontas para uso.  
+
+💡 **Exemplo de Tarefas no Backlog:**  
+✅ Criar banco de dados para armazenar livros.  
+✅ Desenvolver interface para cadastrar novos livros.  
+✅ Implementar funcionalidade de progresso de leitura.  
+✅ Criar painel para acompanhamento de metas.  
 
 ---
 
-## 5. Apresentação da Atividade
+## 5️⃣ Apresentação da Atividade  
 
-Prepare um pequeno documento ou apresentação explicando suas escolhas e como você irá aplicar a metodologia escolhida na prática.
+A apresentação incluirá:  
+📌 **Explicação do Kanban** e como ele organiza o fluxo de trabalho.  
+📌 **Demonstração do quadro Kanban e das tarefas em andamento.**  
+📌 **Papéis da equipe e como cada um contribui.**  
+📌 **Protótipo do sistema e funcionalidades já desenvolvidas.**  
 
-**Grupos:**  
-- **Metodologia:** _[Nome da Metodologia]_  
-- **Tema inicial:** _[Tema do Projeto]_  
+---
 
-### Recursos, Papéis e Responsabilidades
-| Integrante  | Papel |
-|-------------|-------|
-| Integrante 01 | _[Papel]_ |
-| Integrante 02 | _[Papel]_ |
-| Integrante 03 | _[Papel]_ |
-| Integrante 04 | _[Papel]_ |
+## 6️⃣ Ferramentas Utilizadas  
+
+📌 ainda será preenchido.
+---
+
+### 🔹 Por que Kanban é uma boa escolha para este projeto?  
+✅ Mantém um **fluxo de trabalho contínuo** sem a rigidez de sprints.  
+✅ Permite que a equipe **visualize o progresso das tarefas em tempo real**.  
+✅ Facilita ajustes e mudanças sem comprometer o desenvolvimento.  
+
