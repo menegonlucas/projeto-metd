@@ -35,14 +35,12 @@ Um sistema para gerenciamento de leitura, onde os usuários podem:
 
 ## 4️⃣ Elaboração do Planejamento Inicial  
 
-### Fluxo de Trabalho Kanban
-
 🔹 **Backlog** – Lista de tarefas a serem feitas.  
 🔹 **Em Andamento** – Tarefas que estão sendo trabalhadas.  
 🔹 **Revisão** – Tarefas que precisam ser testadas e revisadas.  
 🔹 **Concluído** – Tarefas finalizadas e prontas para uso.  
 
-💡 **Exemplo de Tarefas no Backlog:**  
+💡 **Tarefas estabelecidas:**  
 ✅ Criar banco de dados para armazenar livros.  
 ✅ Desenvolver interface para cadastrar novos livros.  
 ✅ Implementar funcionalidade de progresso de leitura.  
@@ -50,13 +48,11 @@ Um sistema para gerenciamento de leitura, onde os usuários podem:
 
 ---
 
-## 5️⃣ Apresentação da Atividade  
+## 5️⃣ Apresentação
 
-A apresentação incluirá:  
-📌 **Explicação do Kanban** e como ele organiza o fluxo de trabalho.  
-📌 **Demonstração do quadro Kanban e das tarefas em andamento.**  
-📌 **Papéis da equipe e como cada um contribui.**  
-📌 **Protótipo do sistema e funcionalidades já desenvolvidas.**  
+Apresentaremos o projeto desenvolvido
+📌 **Explicação do Kanban** porquê escolhemos essa metodologia.   
+📌 Papéis da equipe e **como cada um contribuiu.**  
 
 ---
 
@@ -65,7 +61,7 @@ A apresentação incluirá:
 📌 ainda será preenchido.
 ---
 
-### 🔹 Por que Kanban é uma boa escolha para este projeto?  
+### 🔹 Por que Kanban foi escolhido para este projeto?  
 ✅ Mantém um **fluxo de trabalho contínuo** sem a rigidez de sprints.  
 ✅ Permite que a equipe **visualize o progresso das tarefas em tempo real**.  
 ✅ Facilita ajustes e mudanças sem comprometer o desenvolvimento.  
