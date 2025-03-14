@@ -50,13 +50,13 @@ Um sistema para gerenciamento de leitura, onde os usuários podem:
 
 ## 5️⃣ Apresentação
 
-Apresentaremos o projeto desenvolvido
-📌 **Explicação do Kanban** porquê escolhemos essa metodologia.   
-📌 Papéis da equipe e **como cada um contribuiu.**  
+Apresentaremos o projeto desenvolvido:
+📌 **Explicação do Kanban** porquê escolhemos essa metodologia.
+📌 Papéis da equipe e **como cada um contribuiu.**
 
 ---
 
-## 6️⃣ Ferramentas Utilizadas  
+## 6️⃣ Ferramentas Utilizadas ## 
 
 📌 Ainda será preenchido.
 ---
